@@ -1,3 +1,5 @@
 Hello GitHub!
 
 https://github.com/KrasnitskiyDO/HelloGit
+
+Красницкий Дмитрий Олегович
